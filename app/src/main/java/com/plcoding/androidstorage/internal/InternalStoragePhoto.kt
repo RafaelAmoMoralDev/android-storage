@@ -1,4 +1,4 @@
-package com.plcoding.androidstorage
+package com.plcoding.androidstorage.internal
 
 import android.graphics.Bitmap
 
